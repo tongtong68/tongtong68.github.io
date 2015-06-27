@@ -1,0 +1,14 @@
+---
+layout: post
+title: 博客搬家了
+modified:
+categories: 
+excerpt:
+tags: []
+image:
+  feature:
+date: 2015-06-28T02:28:21+08:00
+---
+
+我们搬家了，以后就在这里记录自己的点点滴滴了！
+
