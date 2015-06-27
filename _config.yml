@@ -27,24 +27,24 @@ kramdown:
 # Site owner
 owner:
   name: Carter
-  avatar: bio-photo.jpg
-  bio: "Android Software Developer. Like tech, food and my girlfriend. "
+  avatar: profile\profile.jpg
+  bio: "Android Software Developer. Like tech, food and my girlfriend."
   email: tongtong68@gmail.com
   disqus-shortname: 
-  twitter: #tongtong68
-  facebook: #Carter Peng
+  twitter: #https://twitter.com/tongtong68
+  facebook: #https://www.facebook.com/tong.peng.33
   google:
-    plus: #username
+    plus: #https://plus.google.com/u/0/113081040045711761036/posts
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: #https://github.com/tongtong68
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
-  instagram: #tongtong68
+  instagram: #https://instagram.com/tongtong68
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -53,7 +53,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #carterzuckerberg
+  weibo: #大胖熊起飞吧
   flickr: #username
 
 include: [".htaccess"]
