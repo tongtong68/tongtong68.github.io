@@ -5,6 +5,9 @@
 
 - title: 文章
   url: /posts/
+  
+- title: 图片
+  url: /albums/
 
 - title: 帮助
   url: /theme-setup/
