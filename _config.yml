@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Carter's blog
+title:            大胖熊的窝
 locale:           en_US
 url:              
 
@@ -28,11 +28,11 @@ kramdown:
 owner:
   name: Carter
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Android Software Developer. Like tech, food and my girlfriend. "
+  email: tongtong68@gmail.com
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: #tongtong68
+  facebook: #Carter Peng
   google:
     plus: #username
     analytics: 
@@ -44,7 +44,7 @@ owner:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: #tongtong68
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -53,7 +53,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: #carterzuckerberg
   flickr: #username
 
 include: [".htaccess"]
